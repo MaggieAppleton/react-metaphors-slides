@@ -1,5 +1,4 @@
-# Drawing the Invisible
-## How to Explain React Through Visual Metaphors
+# Drawing the Invisible: How to Explain React Through Visual Metaphor
 
 ![](PNGs/MetaphorsofReact_2.0.001.png)
 
