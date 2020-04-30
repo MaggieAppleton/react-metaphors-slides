@@ -6,4 +6,5 @@ Slides from my talk "Drawing the Invisible: How to Explain React in Visual Metap
 ---
 
 Licensed under CC Attribution-ShareAlike 4.0
+
 Sharing with attirubtion to back to me is 👌
